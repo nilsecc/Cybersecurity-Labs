@@ -2,7 +2,7 @@
 
 src: https://dockerlabs.es/
 
-## Reconnaissance
+## Scanning and Enumeration
 We start by checking which services are running on the victim host using nmap with the -sV flag to get the software versions.
 
 Command: nmap -sV 
